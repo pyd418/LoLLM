@@ -1,0 +1,600 @@
+1. **Question:** What form of government does the country [MASK] have?
+
+2. **Question:** Who are the actors in the regular cast of the TV program [MASK] according to their regular TV appearances?
+
+3. **Question:** What titles are associated with the Netflix genre [MASK] in media_common?
+
+4. **Question:** Who is the award winner associated with the awards won in the award category [MASK]?
+
+5. **Question:** What position do players in the current roster of the football team [MASK] play in sports?
+
+6. **Question:** Which team is associated with the players in the soccer football roster position [MASK]?
+
+7. **Question:** Who are the representatives associated with the legislative sessions in the political district [MASK]?
+
+8. **Question:** Who are the actors starring in the film [MASK] according to their performances?
+
+9. **Question:** What is the position of the players in the football roster of the soccer football team [MASK]?
+
+10. **Question:** Who are the actors associated with the film [MASK] according to their performances?
+
+11. **Question:** Which awards are associated with the nominated work in the award category [MASK]?
+
+12. **Question:** Who is the member associated with the membership organization [MASK]?
+
+13. **Question:** Who are the nominees associated with the award nominations in the award nominee [MASK]?
+
+14. **Question:** How many Olympic Games have been contested in the Olympic sport [MASK]?
+
+15. **Question:** What role is associated with the regular performances in the performance role [MASK]?
+
+16. **Question:** Which ceremony is associated with the winners in the award category [MASK]?
+
+17. **Question:** What is the distribution medium associated with the regional release dates of the film [MASK]?
+
+18. **Question:** What type of union is associated with the spouse in the marriage union type [MASK]?
+
+19. **Question:** Who is the award winner associated with the awards won in the award-winning work [MASK]?
+
+20. **Question:** What is the regional release region associated with the regional release dates of the film [MASK]?
+
+21. **Question:** What language is associated with the film [MASK]?
+
+22. **Question:** What genre is associated with the artist in music [MASK]?
+
+23. **Question:** What is contained by the location [MASK]?
+
+24. **Question:** What ethnicity is associated with the person [MASK]?
+
+25. **Question:** What degree is associated with the students or graduates of the educational institution [MASK]?
+
+26. **Question:** Who are the nominees associated with the award nominations in the award category [MASK]?
+
+27. **Question:** Which awards are presented in the award ceremony [MASK]?
+
+28. **Question:** What is contained in the location [MASK]?
+
+29. **Question:** Which country is associated with the headquarters of the organization [MASK]?
+
+30. **Question:** What profession is associated with the person [MASK]?
+
+31. **Question:** Which films are associated with the crew job in the film job [MASK]?
+
+32. **Question:** Who are the people associated with the profession [MASK]?
+
+33. **Question:** Which films is the costume designer associated with in the costume design for film [MASK]?
+
+34. **Question:** What religion is associated with the percentage of religion in the statistical region [MASK]?
+
+35. **Question:** Which films are associated with the genre in the film genre [MASK]?
+
+36. **Question:** What programs are associated with the genre in the TV genre [MASK]?
+
+37. **Question:** What award is associated with the nominated work in the award category [MASK]?
+
+38. **Question:** Who are the artists associated with the genre in music [MASK]?
+
+39. **Question:** Who influenced the influence node [MASK]?
+
+40. **Question:** Which students or graduates are associated with the educational institution [MASK]?
+
+41. **Question:** Which organization is the member associated with in the organization member [MASK]?
+
+42. **Question:** Where was the person [MASK] born?
+
+43. **Question:** What category is associated with the webpage in common?
+
+44. **Question:** What genres are associated with the Netflix titles in media_common?
+
+45. **Question:** Which team is associated with the players in the football historical roster position [MASK]?
+
+46. **Question:** What film crew role is associated with the other crew in the film [MASK]?
+
+47. **Question:** Who is the award winner associated with the awards presented in the award ceremony [MASK]?
+
+48. **Question:** In which country is the film [MASK] released?
+
+49. **Question:** Which country is associated with the athletes participating in the Olympic sport [MASK]?
+
+50. **Question:** Who are the award winners associated with the awards won in the award-winning work [MASK]?
+
+51. **Question:** What program is associated with regular dubbing performances in TV actor extra [MASK]?
+
+52. **Question:** What genre is associated with the film [MASK]?
+
+53. **Question:** Which nominees are associated with the award nominations in the award-nominated work [MASK]?
+
+54. **Question:** Which films are associated with the film distributor in films distributed [MASK]?
+
+55. **Question:** What is the currency associated with the rent50_2 in the statistical region [MASK]?
+
+56. **Question:** What is the currency associated with the estimated budget of the film [MASK]?
+
+57. **Question:** What is the second-level division associated with the administrative division [MASK]?
+
+58. **Question:** What is the district represented by the members in the legislative session [MASK]?
+
+59. **Question:** What is the historical roster position associated with the position_s in the American football team [MASK]?
+
+60. **Question:** What is the jurisdiction of the office associated with the officeholders in the government office category [MASK]?
+
+61. **Question:** What is nominated for in the award nominations of the award nominee [MASK]?
+
+62. **Question:** Where is the place of death associated with the deceased person [MASK]?
+
+63. **Question:** What instruments are played by the group member in instruments played [MASK]?
+
+64. **Question:** Which films are associated with the production company in films [MASK]?
+
+65. **Question:** Which team is associated with the pro athlete's salary in athlete extra [MASK]?
+
+66. **Question:** What role is associated with the track contributions in the artist [MASK]?
+
+67. **Question:** Which company is acquiring the organization in acquired by [MASK]?
+
+68. **Question:** Who are the instrumentalists associated with the instrument in instrumentalists [MASK]?
+
+69. **Question:** Which conflicts are associated with the combatant group in military combatant [MASK]?
+
+70. **Question:** What institution is associated with the education of the person [MASK]?
+
+71. **Question:** For what is honored for associated with the winners in the award category [MASK]?
+
+72. **Question:** What is the gender of the person [MASK]?
+
+73. **Question:** Which company is associated with the employment tenure in job title [MASK]?
+
+74. **Question:** Who are the participants in the friendship of the celebrity [MASK]?
+
+75. **Question:** What occupation is associated with the fictional character in the fictional universe [MASK]?
+
+76. **Question:** What institution is associated with the major field of study in students majoring [MASK]?
+
+77. **Question:** Which industry is associated with the business operation [MASK]?
+
+78. **Question:** Who are the winners associated with the honor in the award category [MASK]?
+
+79. **Question:** What ceremony is associated with the awards won in the award winner [MASK]?
+
+80. **Question:** What is the source associated with the hhuniv in the hud foreclosure area [MASK]?
+
+81. **Question:** What is the hud county place associated with the us county [MASK]?
+
+82. **Question:** What currency is associated with the gni in ppp dollars in the statistical region [MASK]?
+
+83. **Question:** What is the nationality of the person [MASK]?
+
+84. **Question:** What position is associated with the position in the baseball roster [MASK]?
+
+85. **Question:** Who is the member associated with the member in regular performances [MASK]?
+
+86. **Question:** What subject area is associated with the Nobel honor in the Nobel prize winner [MASK]?
+
+87. **Question:** Who are the people associated with the cause of death [MASK]?
+
+88. **Question:** What languages are associated with the TV program [MASK]?
+
+89. **Question:** Who are the philosophers associated with the subject in philosophy [MASK]?
+
+90. **Question:** What topic is associated with the annotations in annotation category [MASK]?
+
+91. **Question:** What parent genre is associated with the genre in music [MASK]?
+
+92. **Question:** Who are the participants in the breakup of the celebrity [MASK]?
+
+93. **Question:** Who influenced the influence node [MASK]?
+
+94. **Question:** What is the capital of the country [MASK]?
+
+95. **Question:** What film performance type is associated with the performance type in the special film performance type [MASK]?
+
+96. **Question:** What sport is associated with the Olympic athlete affiliation in the Olympic participating country [MASK]?
+
+97. **Question:** What is the film associated with the writer [MASK]?
+
+98. **Question:** Who is the player associated with the player in the football team [MASK]?
+
+99. **Question:** Who is the character associated with the performance in the film [MASK]?
+
+100. **Question:** What role is associated with the regular performances in the performance role [MASK]?
+
+101. **Question:** What place is associated with the hud county place [MASK]?
+
+102. **Question:** What administrative divisions are associated with the country [MASK]?
+
+103. **Question:** What role is associated with the leadership in the organization [MASK]?
+
+104. **Question:** What performance role is associated with the guest performances in the recording contribution [MASK]?
+
+105. **Question:** What adjoins the location in the adjoining relationship [MASK]?
+
+106. **Question:** What films are associated with the film subject [MASK]?
+
+107. **Question:** What currency is associated with the net worth in person extra [MASK]?
+
+108. **Question:** What countries are associated with the form of government [MASK]?
+
+109. **Question:** What colors are associated with the educational institution [MASK]?
+
+110. **Question:** What administrative parent is associated with the administrative area in administrative parent [MASK]?
+
+111. **Question:** What basic title is associated with the appointees in the political appointer [MASK]?
+
+112. **Question:** What sectors are associated with the organization [MASK]?
+
+113. **Question:** What organization is associated with the leadership in the role [MASK]?
+
+114. **Question:** Who was born in the location [MASK]?
+
+115. **Question:** What diseases are associated with the risk factor [MASK]?
+
+116. **Question:** What TV stations are associated with the TV station owner [MASK]?
+
+117. **Question:** What legislative sessions are associated with the government position held in legislative session [MASK]?
+
+118. **Question:** What sports are associated with the Olympic games [MASK]?
+
+119. **Question:** Where did the person live in the places lived [MASK]?
+
+120. **Question:** What governmental body is associated with the government position held in legislative session [MASK]?
+
+121. **Question:** What source is associated with the estimated number of foreclosures in the hud foreclosure area [MASK]?
+
+122. **Question:** What disciplines or subjects are associated with the award category [MASK]?
+
+123. **Question:** What school is associated with the sports league draft pick in draft picks [MASK]?
+
+124. **Question:** What Olympics are associated with the medals won in the Olympic participating country [MASK]?
+
+125. **Question:** What countries are spoken in the human language [MASK]?
+
+126. **Question:** What is named after in the namesake [MASK]?
+
+127. **Question:** What category is associated with the phone number in the organization [MASK]?
+
+128. **Question:** What is honored for in the awards won in the award winner [MASK]?
+
+129. **Question:** Who are the people associated with the ethnicity [MASK]?
+
+130. **Question:** What characters have the occupation in the fictional universe [MASK]?
+
+131. **Question:** What type of museum is associated with the museum [MASK]?
+
+132. **Question:** What Olympics are associated with the Olympic athlete affiliation in the Olympic participating country [MASK]?
+
+133. **Question:** What medal is associated with the Olympic medal honor in the medals won [MASK]?
+
+134. **Question:** Who is the crewmember associated with the crewmember in the film crew gig [MASK]?
+
+135. **Question:** What sport is associated with the Olympic athlete affiliation in the Olympic games [MASK]?
+
+136. **Question:** What role is associated with the track performances in the track contribution [MASK]?
+
+137. **Question:** What schools of this kind are associated with the school category [MASK]?
+
+138. **Question:** What position is associated with the roster in the sports team [MASK]?
+
+139. **Question:** What transit lines are associated with the transit service type in metropolitan transit [MASK]?
+
+140. **Question:** What artist is associated with the record label in the record label [MASK]?
+
+141. **Question:** What currency is associated with the rent50_4 in the statistical region [MASK]?
+
+142. **Question:** Who participated in the dated event in popstra [MASK]?
+
+143. **Question:** What countries are within the continents [MASK]?
+
+144. **Question:** What title is associated with the employment tenure in the employer [MASK]?
+
+145. **Question:** What school is associated with the sports league draft pick in the sports league draft [MASK]?
+
+146. **Question:** What role is associated with the member in the group membership [MASK]?
+
+147. **Question:** What sport is associated with the sports team [MASK]?
+
+148. **Question:** What films are executive produced by the producer [MASK]?
+
+149. **Question:** What educational institution is associated with the campus in the educational institution campus [MASK]?
+
+150. **Question:** What league is associated with the sports league participation in the sports team [MASK]?
+
+151. **Question:** What position is associated with the roster in the football team [MASK]?
+
+152. **Question:** What events are associated with the location [MASK]?
+
+153. **Question:** What religion is associated with the person [MASK]?
+
+154. **Question:** What city/town is associated with the mailing address in the headquarters [MASK]?
+
+155. **Question:** What film is associated with the film contributor [MASK]?
+
+156. **Question:** What contributor is associated with the track performances in the track contribution [MASK]?
+
+157. **Question:** What is produced by the film [MASK]?
+
+158. **Question:** What practice of religion is associated with the religious practice [MASK]?
+
+159. **Question:** What city/town is associated with the mailing address in the museum [MASK]?
+
+160. **Question:** What films are featured in the film location [MASK]?
+
+161. **Question:** Who are the founders of the organization [MASK]?
+
+162. **Question:** Who is the actor associated with the starring performances in the special TV performance type [MASK]?
+
+163. **Question:** What category is associated with the celestial object [MASK]?
+
+164. **Question:** What awards are associated with the awards won in the award winner [MASK]?
+
+165. **Question:** What label is associated with the artist [MASK]?
+
+166. **Question:** What medical condition is associated with the notable person [MASK]?
+
+167. **Question:** What film is associated with the producer [MASK]?
+
+168. **Question:** What type of union is associated with the spouse in the marriage [MASK]?
+
+169. **Question:** What production companies are associated with the film [MASK]?
+
+170. **Question:** What second-level divisions are associated with the country [MASK]?
+
+171. **Question:** What position is associated with the roster in the sports team [MASK]?
+
+172. **Question:** Who directed the film [MASK]?
+
+173. **Question:** What football roster position is associated with the team in the soccer [MASK]?
+
+174. **Question:** What dietary restrictions are compatible with the ingredient [MASK]?
+
+175. **Question:** What main country is associated with the human language [MASK]?
+
+176. **Question:** What teams are associated with the location in the sports team [MASK]?
+
+177. **Question:** What currency is associated with the rent50_1 in the statistical region [MASK]?
+
+178. **Question:** What entity is involved in the cultural event [MASK]?
+
+179. **Question:** What films are associated with the film festival event [MASK]?
+
+180. **Question:** What news reporting organization is associated with the news report in the news reported event [MASK]?
+
+181. **Question:** What institution is associated with the degree in the educational degree [MASK]?
+
+182. **Question:** What film distribution medium is associated with the film distributor in distributors [MASK]?
+
+183. **Question:** What producer type is associated with the producer term in the TV producer [MASK]?
+
+184. **Question:** What distributor is associated with the film distributor in distributors [MASK]?
+
+185. **Question:** What teams are associated with the sport [MASK]?
+
+186. **Question:** What group is associated with the regular performances in the group membership [MASK]?
+
+187. **Question:** What service location is associated with the phone number in the organization [MASK]?
+
+188. **Question:** What team is associated with the hockey roster position in the ice hockey [MASK]?
+
+189. **Question:** What legislative sessions are associated with the government position held in politician [MASK]?
+
+190. **Question:** What teams are associated with the location in the sports team location [MASK]?
+
+191. **Question:** What colors are associated with the sports team [MASK]?
+
+192. **Question:** What cause of death is associated with the deceased person [MASK]?
+
+193. **Question:** What team is associated with the basketball roster position in the sports position [MASK]?
+
+194. **Question:** What company is associated with the shopping choice in the celebrity [MASK]?
+
+195. **Question:** What draft is associated with the sports league draft pick in the professional sports team [MASK]?
+
+196. **Question:** What award is nominated for in the award nominations in the award-nominated work [MASK]?
+
+197. **Question:** What season is associated with the team stats in the baseball team [MASK]?
+
+198. **Question:** What interests are associated with the philosopher in the philosophy [MASK]?
+
+199. **Question:** What locations are in this time zone in the time zone [MASK]?
+
+200. **Question:** What languages are associated with the person [MASK]?
+
+201. **Question:** What position is associated with the football player [MASK]?
+
+202. **Question:** What major field of study is associated with the educational institution [MASK]?
+
+203. **Question:** What film is associated with the director [MASK]?
+
+204. **Question:** What position is associated with the historical roster in the football team [MASK]?
+
+205. **Question:** What is honored for in the awards presented in the award ceremony [MASK]?
+
+206. **Question:** What Olympics are associated with the Olympic sport [MASK]?
+
+207. **Question:** Who designed the costume in the film [MASK]?
+
+208. **Question:** What film format is associated with the film [MASK]?
+
+209. **Question:** What featured film locations are associated with the film [MASK]?
+
+210. **Question:** What genre is associated with the TV program [MASK]?
+
+211. **Question:** What currency is associated with the endowment in the endowed organization [MASK]?
+
+212. **Question:** Who wrote the film [MASK]?
+
+213. **Question:** What team is associated with the batting statistics in the baseball player [MASK]?
+
+214. **Question:** What producer type is associated with the programs produced in the TV producer [MASK]?
+
+215. **Question:** What office position or title is associated with the government positions held in the politician [MASK]?
+
+216. **Question:** What twinned towns are associated with the town twinning in the twinned town [MASK]?
+
+217. **Question:** What county is associated with the hud county place [MASK]?
+
+218. **Question:** What position is associated with the roster in the sports team [MASK]?
+
+219. **Question:** What major field of study is associated with the educational degree in the people with this degree [MASK]?
+
+220. **Question:** What cities are associated with the dog breed in the dog city relationship [MASK]?
+
+221. **Question:** What film story credits are associated with the film story contributor [MASK]?
+
+222. **Question:** What contact category is associated with the phone number in the organization extra [MASK]?
+
+223. **Question:** Who are the cast members associated with the seasons in the SNL cast member [MASK]?
+
+224. **Question:** What film format is associated with the film in the film [MASK]?
+
+225. **Question:** What series is associated with the starring roles in the TV actor [MASK]?
+
+226. **Question:** What sequel is associated with the film [MASK]?
+
+227. **Question:** What music is associated with the film [MASK]?
+
+228. **Question:** What position is associated with the roster in the football team [MASK]?
+
+229. **Question:** What country is associated with the Olympic medal honor in the medal winners [MASK]?
+
+230. **Question:** What taxonomy is associated with the taxonomy subject in the taxonomy entry [MASK]?
+
+231. **Question:** What cities are served by the airlines in the airline airport presence [MASK]?
+
+232. **Question:** Who is the friend associated with the friendship in the celebrity friends [MASK]?
+
+233. **Question:** What source is associated with the dated integer in the estimated number of mortgages [MASK]?
+
+234. **Question:** What member is associated with the religion choice in the religion membership [MASK]?
+
+235. **Question:** What current club is associated with the current world cup squad in the world cup squad [MASK]?
+
+236. **Question:** What vacationer is associated with the vacation choice in the vacationers [MASK]?
+
+237. **Question:** What diseases are treated by the medical specialty [MASK]?
+
+238. **Question:** What player is associated with the player in the sports position [MASK]?
+
+239. **Question:** Who is the inventor associated with the invention [MASK]?
+
+240. **Question:** What source is associated with the dated integer in the total residential addresses [MASK]?
+
+241. **Question:** Who participated in canoodled in the canoodled [MASK]?
+
+242. **Question:** What capital is associated with the administrative division in the administrative division capital relationship [MASK]?
+
+243. **Question:** What listed site is associated with the natural or cultural site listing in the natural or cultural site designation [MASK]?
+
+244. **Question:** What player is associated with the player in the historical roster in the baseball team [MASK]?
+
+245. **Question:** What team is associated with the football roster position in the football player [MASK]?
+
+246. **Question:** What location is associated with the vacation choice in the celebrity [MASK]?
+
+247. **Question:** What country is associated with the Olympic medal honor in the medals awarded [MASK]?
+
+248. **Question:** What specializations are associated with the profession [MASK]?
+
+249. **Question:** What software genre is associated with the software [MASK]?
+
+250. **Question:** What school type is associated with the educational institution [MASK]?
+
+251. **Question:** Who supports the organization [MASK]?
+
+252. **Question:** What item is associated with the ranked list [MASK]?
+
+253. **Question:** What film is associated with the crewmember [MASK]?
+
+254. **Question:** What athlete is associated with the pro sports played in the sport [MASK]?
+
+255. **Question:** What player is associated with the football roster position in the football team [MASK]?
+
+256. **Question:** Who is the inductee associated with the hall of fame induction [MASK]?
+
+257. **Question:** What state is associated with the location in the biblioness [MASK]?
+
+258. **Question:** What currency is associated with the local tuition in the university [MASK]?
+
+259. **Question:** What currency is associated with the revenue in the business operation [MASK]?
+
+260. **Question:** What team is associated with the football roster position in the American football player [MASK]?
+
+261. **Question:** What team is associated with the sports team roster in the sports position [MASK]?
+
+262. **Question:** What currency is associated with the retained earnings in the business operation [MASK]?
+
+263. **Question:** What producer is associated with the TV producer term in the TV producer type [MASK]?
+
+264. **Question:** Who decorated the film set in the film [MASK]?
+
+265. **Question:** Who are the combatants associated with the combatants in the military conflict [MASK]?
+
+266. **Question:** What team is associated with the team participation in the sports league [MASK]?
+
+267. **Question:** What country is associated with the location in the biblioness [MASK]?
+
+268. **Question:** What film is associated with the editor [MASK]?
+
+269. **Question:** What role is associated with the membership in the group member [MASK]?
+
+270. **Question:** What country is associated with the Olympic athlete affiliation in the Olympic games [MASK]?
+
+271. **Question:** Who is the parent associated with the organization relationship in the organization [MASK]?
+
+272. **Question:** What position_s is associated with the historical roster in the football team [MASK]?
+
+273. **Question:** What title is associated with the employment tenure in the person [MASK]?
+
+274. **Question:** Who is the consumer associated with the sold to in the product [MASK]?
+
+275. **Question:** What programs are created by the TV program creator [MASK]?
+
+276. **Question:** What producer is associated with the TV producer term in the TV program [MASK]?
+
+277. **Question:** Who is the person associated with the employment tenure in the employer [MASK]?
+
+278. **Question:** What country is associated with the administrative division [MASK]?
+
+279. **Question:** Who executive produced the film [MASK]?
+
+280. **Question:** What currency is associated with the rent50_3 in the statistical region [MASK]?
+
+281. **Question:** What nutrient is associated with the nutrients in the food [MASK]?
+
+282. **Question:** What companies are associated with the industry [MASK]?
+
+283. **Question:** What group is associated with the membership in the group member [MASK]?
+
+284. **Question:** What currency is associated with the gdp_nominal_per_capita in the statistical region [MASK]?
+
+285. **Question:** What degree is associated with the students majoring in the field of study [MASK]?
+
+286. **Question:** What actor is associated with the film performance type in the special film performance type [MASK]?
+
+287. **Question:** What appearance type is associated with the regular TV appearance in the TV personality [MASK]?
+
+288. **Question:** What colleges and universities are associated with the fraternity/sorority [MASK]?
+
+289. **Question:** What student is associated with the student in the field of study [MASK]?
+
+290. **Question:** What is honored for in the awards won in the award winning work [MASK]?
+
+291. **Question:** What position is associated with the roster in the baseball team [MASK]?
+
+292. **Question:** Who are the children associated with the person [MASK]?
+
+293. **Question:** What position is associated with the basketball roster position in the sports team [MASK]?
+
+294. **Question:** What state/province/region is associated with the mailing address in the organization [MASK]?
+
+295. **Question:** What is the capital associated with the administrative area in the administrative division [MASK]?
+
+296. **Question:** What source is associated with the dated integer in the total 90-day vacant residential addresses [MASK]?
+
+297. **Question:** What administrative children are associated with the administrative area in the administrative division [MASK]?
+
+298. **Question:** What program is associated with the producer type in the TV producer [MASK]?
+
+299. **Question:** What first-level divisions are associated with the country in the country [MASK]?
+
+300. **Question:** What currency is associated with the liabilities in the business operation [MASK]?
+

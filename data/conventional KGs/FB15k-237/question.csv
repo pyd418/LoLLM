@@ -1,0 +1,237 @@
+"/soccer/football_team/current_roster./soccer/football_roster_position/position	",What is the position of [MASK]?
+"/music/artist/origin	",What is the origin of [MASK]?
+"/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	",What is the position of players in the current roster of the [MASK] hockey team?
+"/food/food/nutrients./food/nutrition_fact/nutrient	",What are the nutrients in [MASK]?
+"/film/actor/film./film/performance/film	",What films has [MASK] acted in?
+"/award/award_nominee/award_nominations./award/award_nomination/nominated_for	",For which awards was [MASK] nominated?
+"/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	",Who are the politicians affiliated with [MASK]'s political party?
+"/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	",What is the net worth of [MASK] in [MASK] currency?
+"/people/deceased_person/place_of_death	",Where did [MASK] pass away?
+"/people/person/profession	",What is the profession of [MASK]?
+"/location/administrative_division/first_level_division_of	",What is the first-level division of [MASK]?
+"/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team	",In the NCAA basketball tournament what seed is assigned to [MASK]'s team?
+"/education/university/international_tuition./measurement_unit/dated_money_value/currency	",What is the international tuition for [MASK] in [MASK] currency?
+"/location/us_county/county_seat	",What is the county seat of [MASK]?
+"/location/location/partially_contains	",What is the county seat of [MASK]?
+"/tv/tv_program/program_creator	",Who is the creator of the TV program [MASK]?
+"/film/film/music	",What music is associated with the film [MASK]?
+"/tv/tv_program/languages	",What languages are spoken in the TV program [MASK]?
+"/common/topic/webpage./common/webpage/category	",What languages are spoken in the TV program [MASK]?
+"/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	",What taxonomy is associated with the entry [MASK]?
+"/education/field_of_study/students_majoring./education/education/major_field_of_study	",What is the major field of study for students majoring in [MASK]?
+"/business/business_operation/assets./measurement_unit/dated_money_value/currency	",What is the currency of the assets in the business operation [MASK]?
+"/film/film_set_designer/film_sets_designed	",Which film sets has the film set designer [MASK] designed?
+"/dataworld/gardening_hint/split_to	",How is [MASK] split in the gardening hint?
+"/people/person/languages	",What languages does [MASK] speak?
+"/business/job_title/people_with_this_title./business/employment_tenure/company	",In which companies has a person with the job title [MASK] been employed?
+"/location/country/form_of_government	",What form of government does [MASK] have?
+"/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	",What language is associated with the phone service of [MASK]'s organization?
+"/people/person/place_of_birth	",Where was [MASK] born?
+"/sports/sports_team/colors	",What are the colors of the sports team [MASK]?
+"/education/educational_institution/school_type	",What type of school is [MASK]?
+"/award/award_category/winners./award/award_honor/award_winner	",Who are the winners of the award category [MASK]?
+"/organization/organization/headquarters./location/mailing_address/citytown	",In which city or town is the headquarters of [MASK] located?
+"/education/educational_degree/people_with_this_degree./education/education/student	",Who are the people with the educational degree [MASK]?
+"/government/legislative_session/members./government/government_position_held/legislative_sessions	",Who are the people with the educational degree [MASK]?
+"/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium	",Who are the people with the educational degree [MASK]?
+"/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	",What major field of study do people with the educational degree [MASK] typically pursue?
+"/location/hud_county_place/county	",Which county is associated with the place [MASK]?
+"/location/administrative_division/country	",What country is in the administrative division of [MASK]?
+"/film/film/film_production_design_by	",Who was the film production design by for the film [MASK]?
+"/award/award_winning_work/awards_won./award/award_honor/award	",What awards were won by the award-winning work [MASK]?
+/organization/organization/headquarters./location/mailing_address/state_province_region,"In which state, province, or region is the headquarters of [MASK] located?"
+"/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	",What is the contact category associated with the phone number of [MASK]'s organization?
+"/tv/tv_program/country_of_origin	",What is the country of origin for the TV program [MASK]?
+"/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal	",How many medals were won by the participating country [MASK] in the Olympics?
+"/location/country/second_level_divisions	",What are the second-level divisions of the country [MASK]?
+"/award/award_ceremony/awards_presented./award/award_honor/honored_for	",What was [MASK] honored for at the award ceremony?
+"/organization/organization_member/member_of./organization/organization_membership/organization	",What was [MASK] honored for at the award ceremony?
+"/education/educational_institution/campuses	",How many campuses does [MASK] have?
+"/music/artist/contribution./music/recording_contribution/performance_role	",What is the performance role of [MASK] in the contribution to music recordings?
+"/award/ranked_item/appears_in_ranked_lists./award/ranking/list	","In which ranked lists does [MASK] appear, and in which list is it ranked?"
+"/people/person/religion	","In which ranked lists does [MASK] appear, and in which list is it ranked?"
+"/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	",What is the climate of the travel destination [MASK] in [MASK] month?
+"/film/special_film_performance_type/film_performance_type./film/performance/film	",What is the film performance type associated with the special film performance type [MASK]?
+"/award/award_nominee/award_nominations./award/award_nomination/award	","For which award nominations was [MASK] a nominee, and what awards were nominated for?"
+"/location/statistical_region/religions./location/religion_percentage/religion	","What religions are present in the statistical region [MASK], and what are their percentages?"
+"/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	",Which schools are associated with the picks in the sports league draft [MASK]?
+"/film/film/distributors./film/film_film_distributor_relationship/region	",In which region are the distributors associated with the film [MASK] active?
+"/government/politician/government_positions_held./government/government_position_held/legislative_sessions	",During which legislative sessions did [MASK] hold government positions?
+"/organization/role/leaders./organization/leadership/organization	","Who are the leaders in the role [MASK], and what organization do they lead?"
+"/tv/tv_network/programs./tv/tv_network_duration/program	",What programs are associated with the TV network [MASK] and their durations?
+"/soccer/football_team/current_roster./sports/sports_team_roster/position	",What positions do players in the current roster of the football team [MASK] play?
+"/music/instrument/instrumentalists	",Who are the instrumentalists for [MASK]?
+"/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	",What is the operating income of the business operation [MASK] in [MASK] currency?
+"/people/cause_of_death/people	",What are the causes of death for the people [MASK]?
+"/film/film/film_art_direction_by	",Who was the film art direction by for the film [MASK]?
+"/people/person/sibling_s./people/sibling_relationship/sibling	",Who are the siblings of [MASK]?
+"/film/film/cinematography	",Who was the cinematography for the film [MASK]?
+"/film/actor/dubbing_performances./film/dubbing_performance/language	",In which language did the actor [MASK] perform dubbing?
+"/base/biblioness/bibs_location/state	",In which state is the location associated with the bibliography [MASK]?
+"/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	",What are the top dog breeds in the city with dogs in [MASK]?
+"/people/person/gender	",What is the gender of [MASK]?
+"/education/field_of_study/students_majoring./education/education/student	",Which students majoring in [MASK]'s field of study?
+"/base/popstra/celebrity/dated./base/popstra/dated/participant	",What dated events has [MASK] participated in as a celebrity?
+"/sports/sports_team/roster./american_football/football_roster_position/position	",What positions do players in the roster of the sports team [MASK] play in American football?
+"/award/award_winner/awards_won./award/award_honor/award_winner	",What awards has [MASK] won?
+"/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	",How many medals were won by the participating country [MASK] in the Olympics?
+"/film/director/film	",Which films were directed by [MASK]?
+"/tv/tv_producer/programs_produced./tv/tv_producer_term/program	",What programs were produced during the term of [MASK] as a TV producer?
+"/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	",Which films were distributed by the film distributor [MASK]?
+"/olympics/olympic_games/sports	",What sports are part of the Olympic Games [MASK]?
+"/music/record_label/artist	",Which artists are associated with the record label [MASK]?
+"/education/university/local_tuition./measurement_unit/dated_money_value/currency	",Which artists are associated with the record label [MASK]?
+"/film/film/story_by	",Who is the story by for the film [MASK]?
+"/people/person/spouse_s./people/marriage/spouse	",Who is the spouse of [MASK]?
+"/sports/sports_league/teams./sports/sports_league_participation/team	",Which teams participate in the sports league [MASK]?
+"/people/profession/specialization_of	",What is the specialization of [MASK] in their profession?
+"/base/americancomedy/celebrity_impressionist/celebrities_impersonated	",Which celebrities has the celebrity impressionist [MASK] impersonated?
+"/tv/tv_program/genre	",What genre does the TV program [MASK] belong to?
+"/award/award_category/nominees./award/award_nomination/nominated_for	","Who are the nominees for the award category [MASK], and what are they nominated for?"
+"/language/human_language/countries_spoken_in	",In which countries is the human language [MASK] spoken?
+"/organization/organization/headquarters./location/mailing_address/country	",In which country is the headquarters of the organization [MASK] located?
+"/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	",What is the real GDP of the statistical region [MASK] in [MASK] currency?
+"/education/university/fraternities_and_sororities	",Are there any fraternities and sororities associated with [MASK]'s university?
+"/award/award_nominee/award_nominations./award/award_nomination/award_nominee	",Who are the award nominees for [MASK] and what awards are they nominated for?
+"/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	",Which combatants are involved in the military conflicts associated with [MASK]?
+"/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	","What nominations does the nominated work [MASK] have, and what is it nominated for?"
+"/location/location/time_zones	",What time zones are associated with the location [MASK]?
+"/film/film/dubbing_performances./film/dubbing_performance/actor	",Who is the actor for the dubbing performances in the film [MASK]?
+"/film/film_subject/films	",What films are associated with the film subject [MASK]?
+"/education/educational_degree/people_with_this_degree./education/education/institution	","Who holds the educational degree [MASK], and at which educational institutions?"
+"/education/educational_institution/colors	",What are the colors associated with the educational institution [MASK]?
+"/award/award_category/category_of	",In which award category is [MASK] the category of?
+"/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	",In which programs does the TV personality [MASK] regularly appear?
+"/film/film/language	",In which language is the film [MASK]?
+"/music/group_member/membership./music/group_membership/group	",Who are the members of the music group [MASK]?
+"/business/business_operation/revenue./measurement_unit/dated_money_value/currency	",What is the revenue of the business operation [MASK] in [MASK] currency?
+"/film/film/film_festivals	",What film festivals are associated with the film [MASK]?
+"/film/actor/film./film/performance/special_performance_type	",What special performance types are associated with the actor [MASK]'s performances in films?
+"/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency	",With which registering agency is the non-profit organization [MASK] registered?
+"/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	",In which jurisdictions has [MASK] held government positions?
+"/base/aareas/schema/administrative_area/administrative_parent	",What is the administrative parent of the administrative area [MASK]?
+"/award/award_winning_work/awards_won./award/award_honor/award_winner	",What awards has the award-winning work [MASK] and who are the award winners?
+"/organization/organization/place_founded	",In which place was the organization [MASK] founded?
+"/soccer/football_player/current_team./sports/sports_team_roster/team	",Which team is associated with the current football player [MASK]?
+"/government/politician/government_positions_held./government/government_position_held/basic_title	",What basic title is associated with the government position held by [MASK]?
+"/music/artist/track_contributions./music/track_contribution/role	",What role does [MASK] play in the track contributions of the artist [MASK]?
+"/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	",In which seasonal months is produce available in [MASK]'s local food?
+"/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	",Who are the friends of the celebrity [MASK]?
+"/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school	",From which school were the draft picks in the professional sports team [MASK]?
+"/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	",Who are the inductees in the hall of fame associated with [MASK]?
+"/influence/influence_node/peers./influence/peer_relationship/peers	",Who are the peers of the influence node [MASK]?
+"/medicine/disease/risk_factors	",What are the risk factors associated with the disease [MASK]?
+"/broadcast/content/artist	",Who is the artist associated with the content in the broadcast [MASK]?
+"/film/film/estimated_budget./measurement_unit/dated_money_value/currency	",What is the estimated budget for the film [MASK] in [MASK] currency?
+"/military/military_conflict/combatants./military/military_combatant_group/combatants	","Who are the combatants in the military conflict [MASK], and which military combatant groups do they belong to?"
+"/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	",What is the capital of the administrative division associated with the capital of [MASK]?
+"/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	",Who are the actors in the regular cast of the TV program [MASK]?
+"/people/deceased_person/place_of_burial	",Where is the place of burial for the deceased person [MASK]?
+"/location/location/adjoin_s./location/adjoining_relationship/adjoins	",Which locations adjoin [MASK]?
+"/music/group_member/membership./music/group_membership/role	",What roles do the members of the music group [MASK] play in their membership?
+"/award/award_ceremony/awards_presented./award/award_honor/award_winner	","What awards were presented at the award ceremony [MASK], and who are the award winners?"
+"/film/film/prequel	",What is the prequel associated with the film [MASK]?
+"/film/film/produced_by	",Who produced the film [MASK]?
+"/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type	",What producer type is associated with the TV producer [MASK]'s term?
+"/sports/sports_position/players./sports/sports_team_roster/team	",Which team is associated with the players in the sports position [MASK]?
+"/olympics/olympic_games/participating_countries	",Which countries are participating in the Olympic Games [MASK]?
+"/music/genre/parent_genre	",What is the parent genre of the music genre [MASK]?
+"/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	",Which TV programs are associated with the TV writer [MASK]?
+"/music/genre/artists	",What artists are associated with the music genre [MASK]?
+"/film/film/genre	",What genre is associated with the film [MASK]?
+"/people/person/employment_history./business/employment_tenure/company	",What companies are associated with the employment history of the person [MASK]?
+"/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	",What is the domestic tuition for [MASK] at the university in [MASK] currency?
+"/people/person/nationality	",What is the nationality of [MASK]?
+"/location/country/capital	",What is the capital of the country [MASK]?
+"/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	",What is the GNI per capita in PPP dollars for the statistical region [MASK] in [MASK] currency?
+"/base/aareas/schema/administrative_area/capital	",What is the capital of the administrative area [MASK]?
+"/business/business_operation/industry	",In which industry does the business operation [MASK] operate?
+"/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	","What is the estimated number of mortgages in the HUD foreclosure area [MASK], and what is the source of this information?"
+"/film/film/other_crew./film/film_crew_gig/crewmember	",Who are the crew members associated with the other crew of the film [MASK]?
+"/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	","Who are the vacationers associated with the location [MASK], and what are their vacation choices?"
+"/film/film/film_format	",What film format is associated with the film [MASK]?
+"/medicine/disease/notable_people_with_this_condition	",Who are the notable people with the medical condition [MASK]?
+"/film/film/costume_design_by	",Who is the costume designed by for the film [MASK]?
+"/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	",In which jurisdiction is the government office [MASK] held by the officeholders?
+"/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	",What is the nominal GDP for the statistical region [MASK] in [MASK] currency?
+"/sports/sports_team/roster./baseball/baseball_roster_position/position	",What positions do players in the baseball roster of the sports team [MASK] play?
+"/award/award_winning_work/awards_won./award/award_honor/honored_for	","What awards were won by the award-winning work [MASK], and what is it honored for?"
+"/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	",Which Olympics are associated with the athletes participating in the Olympic sport [MASK]?
+"/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	",Who are the celebrities involved in the romantic relationships associated with the celebrity [MASK]?
+"/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	",What are the locations of marriage ceremonies for unions of the marriage union type [MASK]?
+"/organization/organization/child./organization/organization_relationship/child	",What organizations are children of the organization [MASK]?
+"/organization/organization_founder/organizations_founded	",Which organizations were founded by the organization founder [MASK]?
+"/sports/sports_team/sport	",What sport is associated with the sports team [MASK]?
+"/people/ethnicity/geographic_distribution	",What is the geographic distribution of the ethnicity [MASK]?
+"/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	","To which places are exported from the statistical region [MASK], and what is exported to them?"
+"/location/country/official_language	",What is the official language of the country [MASK]?
+"/film/film/production_companies	",Which production companies are associated with the film [MASK]?
+"/user/jg/default_domain/olympic_games/sports	",What sports are associated with the Olympic Games in the default domain of [MASK]?
+"/time/event/locations	",What locations are associated with the event [MASK]?
+"/people/person/spouse_s./people/marriage/type_of_union	",What is the type of union associated with the spouse of the person [MASK]?
+"/government/governmental_body/members./government/government_position_held/legislative_sessions	",In which legislative sessions have the members of the governmental body [MASK] held government positions?
+"/media_common/netflix_genre/titles	",What titles are associated with the Netflix genre [MASK]?
+"/user/alexander/philosophy/philosopher/interests	",What are the interests of the philosopher [MASK]?
+"/film/film/runtime./film/film_cut/film_release_region	",What film release regions are associated with the runtime of the film [MASK]?
+"/education/educational_institution/students_graduates./education/education/student	",Which students have graduated from the educational institution [MASK]?
+"/base/eating/practicer_of_diet/diet	",What diet is practiced by the practitioner of diet [MASK]?
+"/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	",Who is the person associated with the non-character role [MASK] in their regular personal appearances on TV?
+"/sports/sports_position/players./sports/sports_team_roster/position	",What positions do players in the sports team roster of the sports position [MASK] play?
+"/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft	",What draft is associated with the draft picks of the professional sports team [MASK]?
+"/medicine/symptom/symptom_of	",What is the symptom of [MASK] in medicine?
+"/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	",What type of appearance does the person or entity appearing in film [MASK] have in their personal film appearances?
+"/sports/sports_team_location/teams	",Which teams are associated with the sports team location [MASK]?
+"/american_football/football_team/current_roster./sports/sports_team_roster/position	",What positions do players in the current roster of the football team [MASK] play in American football?
+"/people/person/places_lived./people/place_lived/location	",In which locations has the person [MASK] lived?
+"/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	",What is the rent50_2 in the statistical region [MASK] in [MASK] currency?
+"/film/film/personal_appearances./film/personal_film_appearance/person	","Who is the person associated with the personal appearances in films, and what are those appearances?"
+"/music/instrument/family	",What family is associated with the instrument [MASK] in music?
+"/sports/sports_team/roster./basketball/basketball_roster_position/position	",What positions do players in the roster of the sports team [MASK] play in basketball?
+"/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	",Where is the service location associated with the phone number of the organization [MASK]?
+"/film/film/release_date_s./film/film_regional_release_date/film_release_region	",What film release regions are associated with the release dates of the film [MASK]?
+"/award/award_category/disciplines_or_subjects	",What disciplines or subjects are associated with the award category [MASK]?
+"/base/popstra/celebrity/friendship./base/popstra/friendship/participant	",Who are the participants in the friendship associated with the celebrity [MASK]?
+"/music/performance_role/regular_performances./music/group_membership/group	",What groups are associated with the regular performances in the performance role [MASK]?
+"/film/film/edited_by	",Who edited the film [MASK]?
+"/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	",What is the current club associated with the current world cup squad of the world cup squad in the x2010 FIFA World Cup South Africa [MASK]?
+"/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	",Who are the participants in the canoodling associated with the celebrity [MASK]?
+"/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium	",What film release distribution medium is associated with the release dates of the film [MASK]?
+"/film/film/other_crew./film/film_crew_gig/film_crew_role	",What film crew roles are associated with the other crew of the film [MASK]?
+"/base/popstra/celebrity/breakup./base/popstra/breakup/participant	",Who are the participants in the breakup associated with the celebrity [MASK]?
+"/film/film/country	",Which country is associated with the film [MASK]?
+"/music/performance_role/regular_performances./music/group_membership/role	",What role is played in regular performances by the member of the music group in the performance role [MASK]?
+"/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	",What historical positions are associated with the roster of the sports team in American football [MASK]?
+"/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue	",What is the regional debut venue associated with the regional release dates of the film [MASK]?
+"/time/event/instance_of_recurring_event	",What is the recurring event associated with the instance of the event [MASK]?
+"/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	",Which Olympics are associated with the athletes participating in the Olympic participating country [MASK]?
+"/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	",What is the endowment in [MASK] currency associated with the endowed organization [MASK]?
+"/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	","How can one get to the travel destination [MASK], and what mode of transportation is associated with it?"
+"/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season	",What seasons are associated with the team stats of the baseball team [MASK]?
+"/award/award_category/winners./award/award_honor/ceremony	",What ceremony is associated with the winners in the award category [MASK]?
+"/government/legislative_session/members./government/government_position_held/district_represented	",Which district is represented by the members of the legislative session associated with the government position held [MASK]?
+"/influence/influence_node/influenced_by	",Who influenced the influence node [MASK]?
+"/base/culturalevent/event/entity_involved	",Which entities are involved in the cultural event associated with the event [MASK]?
+"/people/ethnicity/people	",What people are associated with the ethnicity [MASK]?
+"/sports/sport/pro_athletes./sports/pro_sports_played/athlete	",Who are the athletes associated with the pro sports played in the sport [MASK]?
+"/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	",What is the nominal GDP per capita in [MASK] currency for the statistical region [MASK]?
+"/location/hud_county_place/place	",What is the place associated with the HUD county place [MASK]?
+"/base/aareas/schema/administrative_area/administrative_area_type	",What is the administrative area type of the administrative area [MASK]?
+"/base/locations/continents/countries_within	",Which countries are within the continent associated with the locations [MASK]?
+"/sports/sports_position/players./american_football/football_historical_roster_position/position_s	",What historical positions are associated with the players in the historical roster of the sports position [MASK] in American football?
+"/people/person/spouse_s./people/marriage/location_of_ceremony	",Which district is represented by the members of the legislative session associated with the government position held [MASK]?
+"/education/educational_institution/students_graduates./education/education/major_field_of_study	",Who influenced the influence node [MASK]?
+"/film/film/written_by	",Which entities are involved in the cultural event associated with the event [MASK]?
+"/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	",What people are associated with the ethnicity [MASK]?
+"/music/performance_role/guest_performances./music/recording_contribution/performance_role	",Who are the athletes associated with the pro sports played in the sport [MASK]?
+"/film/film/featured_film_locations	",What is the nominal GDP per capita in [MASK] currency for the statistical region [MASK]?
+"/education/educational_institution_campus/educational_institution	",What is the place associated with the HUD county place [MASK]?
+"/sports/pro_athlete/teams./sports/sports_team_roster/team	",What is the administrative area type of the administrative area [MASK]?
+"/people/ethnicity/languages_spoken	",Which countries are within the continent associated with the locations [MASK]?
+"/film/film/executive_produced_by	",What historical positions are associated with the players in the historical roster of the sports position [MASK] in American football?
+"/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type	",What producer type is associated with the TV producer [MASK]'s term for the programs produced?
+"/location/location/contains	",What locations are contained within the location [MASK]?
+"/base/biblioness/bibs_location/country	",In which country is the bibs location [MASK]?
+"/user/ktrueman/default_domain/international_organization/member_states	",Which member states are associated with the international organization in the default domain of [MASK]?
+"/music/performance_role/track_performances./music/track_contribution/role	",What role is associated with the track performances in the track contribution for the performance role [MASK]?
+"/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	","Which medals are awarded in the Olympic Games [MASK], and what are the associated Olympic medal honors?"
+"/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members	",Who are the cast members associated with the seasons in SNL cast member [MASK]'s tenure in SNL season tenure?

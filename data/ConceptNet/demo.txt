@@ -1,0 +1,68 @@
+ReceivesAction	hockey	play on ice
+AtLocation	restroom	rest area
+HasPrerequisite	eat breakfast	make breakfast
+AtLocation	book	table
+AtLocation	dust	refrigerator
+UsedFor	letter	communication
+UsedFor	dynamite	blow thing up
+AtLocation	shade	window
+HasA	cat	eye
+AtLocation	cat	bag
+IsA	rook	chess piece
+IsA	quartz	mineral
+AtLocation	something	barn
+NotCapableOf	you	judge book by it cover
+UsedFor	planet	live on
+AtLocation	eraser	desk
+UsedFor	buy present	christmas
+UsedFor	saloon	drink
+AtLocation	piece	information in book
+AtLocation	someone	university
+Causes	find lose item	happiness
+UsedFor	door	enter room
+HasPrerequisite	kill	get weapon
+HasPrerequisite	destroy your enemy	plan
+HasA	garden	flower
+HasSubevent	sew	thread needle
+UsedFor	forklift	move heavy object
+IsA	lightning	electricity
+AtLocation	casket	funeral
+ReceivesAction	tax	pay
+IsA	axe	tool
+HasPrerequisite	propose to woman	buy ring
+CausesDesire	be tire	sleep
+AtLocation	vacuum	space
+HasProperty	read book	fun
+Desires	person	vacation
+AtLocation	stair	build
+UsedFor	tan lotion	prevent sunburn
+CapableOf	wind	blow to east
+HasSubevent	stop your car	brake
+HasPrerequisite	ride horse	put saddle on horse
+UsedFor	glass of milk	drink
+Causes	express yourself	embarrassment
+HasSubevent	entertain person	sing
+AtLocation	person	apartment
+ReceivesAction	paper	write on
+NotIsA	win	everything but it something
+HasFirstSubevent	exercise	stretch
+NotDesires	person	lose friend
+MotivatedByGoal	have lunch	you be hungry
+NotHasProperty	earth	round
+HasLastSubevent	listen to radio	turn off radio
+PartOf	aunt	family
+MadeOf	plate	glass
+RelatedTo	king	prince
+DefinedAs	winter solstice	short day of year
+NotHasA	baby	much hair
+SymbolOf	four leaf clover	luck
+NotHasA	most t-shirt	button
+CreatedBy	sea shell	animal
+NotMadeOf	tortoise shell glass	tortoise shell
+InstanceOf	friend	sitcom
+DesireOf	person	be respect
+InheritsFrom	house	dwell
+LocatedNear	chair	table
+HasPainCharacter	beat	throb
+HasPainIntensity	beat	horrible
+LocationOfAction	wash	bathroom
